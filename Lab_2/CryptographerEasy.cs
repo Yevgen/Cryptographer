@@ -8,6 +8,7 @@ namespace Lab_2
 {
     class CryptographerEasy
     {
+
         private string Encryptions(string text, int key)
         {
             //32 - 122
